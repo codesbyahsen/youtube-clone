@@ -1,0 +1,100 @@
+.navbar-yt {
+    /* background-color: rgb(196, 196, 196); */
+}
+
+.flex {
+    display: flex;
+}
+
+.toggler {
+    border: 1px transparent;
+    padding: 5px 6px 8px 6px;
+    vertical-align: middle;
+    border-radius: 50%;
+    color: black;    
+}
+
+.logo img {
+    width: 110px;
+    padding-left: 10px;
+}
+
+.searchbar {
+    padding-left: 200px;
+}
+
+#search {
+    width: 530px;
+    height: 38px;
+    padding-left: 10px;
+    border: 1px solid rgb(156, 156, 156);    
+}
+
+.searchbar button {
+    color: #F0F0F0;
+    border: 1px solid rgb(156, 156, 156);
+    width: 60px;
+    height: 38px;
+    margin-left: -5px;
+}
+
+.searchbar button i {
+    color: black;
+}
+
+.microphone {
+    padding-left: 9px;
+    margin-top: 8px;
+}
+
+.mic {
+    border: 1px transparent;
+    padding: 8px 10px;
+    border-radius: 50%;
+    color: black;
+    background-color: #F0F0F0;
+}
+
+.mic:hover {
+    color: black;
+}
+
+.video-icon {
+    padding-left: 135px;
+    padding-top: 8px;
+}
+
+.yt-video img {
+    width: 25px;
+}
+
+.candy-box {
+    padding-left: 22px;
+    padding-top: 6.5px;
+}
+
+.grid .candybox {
+    font-size: 19px;
+    color: black;
+}
+
+.bell {
+    padding-left: 22px;
+    padding-top: 6.5px;
+}
+
+.yt-bell {
+    font-size: 19px;
+    color: black;
+}
+
+.avatar {
+    padding-left: 50px;
+    padding-top: 4px;
+}
+
+.user-avatar img {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
